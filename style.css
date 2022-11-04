@@ -58,15 +58,6 @@
     width: 100%;
 }
 
-/* .Home::before {
-    content: "";
-    position: absolute;
-    background: url(C:\Users\User\Desktop\Web\Food\img\Background.jpg) no-repeat center center/cover;
-    width: 100%;
-    height: 100%;
-    z-index: -1;
-    opacity: 0.82;
-} */
 
 .header {
     background-color: aqua;
